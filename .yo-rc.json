@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.esens.lab.jhipster",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "jhipster",
+        "packageName": "com.esens.lab.jhipster",
+        "packageFolder": "com/esens/lab/jhipster",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "postgresql",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YWZiYTZmMGY5YmI5ZGVmYTA2YjNhNDI4MzU5ZDY1MDRkM2ViYTY3OWU1NDg3ZTk0NzY4OTM1MjQ3M2U3NzYwZTAwZGI2Y2E4MzIxMTJlY2U3ZDkwNDNkMjgwMTVhNTg1MjE5NTYwNTY4YjNmY2ViM2U0NzE0ZjBhMjEzNjFjYjE=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
